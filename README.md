@@ -9,3 +9,6 @@ Non
 
 # Code
 Oui
+
+# Lancement
+A partir de appliTI.py
